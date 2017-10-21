@@ -1,0 +1,27 @@
+body{
+    background-color: #9C27B0;
+}
+
+.top-text{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 200%;
+    text-align: center;
+    color: white;
+    margin: 10px;
+}
+
+.bottom-text{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 100%;
+    text-align: center;
+    color: white;
+    margin-top: -15px;
+}
+
+.testing-area{
+    font-family: 'Varela Round', sans-serif;
+    font-size: 100%;
+    color: white;
+    margin-left: 5%;
+    margin-top: 5%;
+}
